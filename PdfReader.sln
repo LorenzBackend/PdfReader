@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfReader", "PdfReader\PdfReader.csproj", "{6388C94A-6D9E-4C0E-9AEA-92A6106AA5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6388C94A-6D9E-4C0E-9AEA-92A6106AA5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6388C94A-6D9E-4C0E-9AEA-92A6106AA5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6388C94A-6D9E-4C0E-9AEA-92A6106AA5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6388C94A-6D9E-4C0E-9AEA-92A6106AA5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B547B23-619E-425D-96F0-E3BE42F23B32}
+	EndGlobalSection
+EndGlobal
